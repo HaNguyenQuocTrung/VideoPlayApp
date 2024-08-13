@@ -24,7 +24,7 @@ fonts.configure()
 
 # Set Facebook-like colors
 bg_color = "#4267B2"         # Facebook blue
-fg_color = "#FFFFFF"         # White text
+fg_color = "#c0c0c0"         # White text
 button_color = "#4267B2"     # Facebook blue
 button_hover_color = "#echo "# VideoPlayApp" >> README.md"  # Darker blue
 
