@@ -4,6 +4,7 @@ from check_videos import CheckVideos
 from create_video_list import CreateVideoList
 from update_videos import UpdateVideos
 
+
 def check_videos_clicked():
     status_lbl.configure(text="Check Videos button was clicked!")
     CheckVideos(tk.Toplevel(window))
